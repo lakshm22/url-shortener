@@ -448,3 +448,9 @@ Without Postman, testing would require either:
 * Using command-line tools such as curl
 
 Postman provided a faster feedback loop while developing the backend independently.
+
+---
+
+## Usage Notice
+
+This repository is publicly visible for learning and reference purposes only. The source code is not open source and may not be copied, modified, redistributed, or reused without explicit permission.
