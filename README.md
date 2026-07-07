@@ -36,7 +36,7 @@ This project was created as a hands-on learning project to understand backend de
 src/main/java
 │
 ├── controller
-│      HelloController.java
+│      UrlController.java
 │
 ├── service
 │      UrlService.java
