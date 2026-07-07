@@ -453,4 +453,8 @@ Postman provided a faster feedback loop while developing the backend independent
 
 ## Usage Notice
 
-This repository is publicly visible for learning and reference purposes only. The source code is not open source and may not be copied, modified, redistributed, or reused without explicit permission.
+This repository is shared for learning, reference, and portfolio purposes only.
+
+Please do not copy, redistribute, or reuse this code in your own projects, assignments, or commercial work without my explicit permission.
+
+Feel free to study the implementation and learn from it, but do not submit or present this work as your own.
