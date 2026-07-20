@@ -449,12 +449,3 @@ Without Postman, testing would require either:
 
 Postman provided a faster feedback loop while developing the backend independently.
 
----
-
-## Usage Notice
-
-This repository is shared for learning, reference, and portfolio purposes only.
-
-Please do not copy, redistribute, or reuse this code in your own projects, assignments, or commercial work.
-
-Feel free to study the implementation and learn from it, but do not submit or present this work as your own.
